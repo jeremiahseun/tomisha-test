@@ -1,16 +1,18 @@
 # tomisha_test
 
-A new Flutter project.
+A German Responsive Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was inspired by how Flutter handles mobile view and web respectively. It was decided to test a design that has mobile and web view for Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Project Details
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Design File](https://xd.adobe.com/view/319ae99b-4cb5-45ba-76b1-e7d04e64c866-47ab/)
+The password is **9yI9S*G6j18I**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Other info
+
+You can check out the hosted webpage here.
+
+Have fun and don't forget to star the project.
