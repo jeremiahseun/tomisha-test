@@ -13,6 +13,6 @@ The password is **9yI9S*G6j18I**
 
 ## Other info
 
-You can check out the hosted webpage here.
+You can check out the hosted webpage [here](https://tomisha-eljoy.netlify.app/).
 
 Have fun and don't forget to star the project.
